@@ -20,8 +20,6 @@
 			<groupId>com.microsoft.sqlserver</groupId>
 			<artifactId>mssql-jdbc</artifactId>
 			<version>11.2.0.jre11</version>
-			<scope>system</scope>
-			<systemPath>java-test/mssql-jdbc-12.4.0.jre11.jar</systemPath>
 		</dependency>
 
 
