@@ -45,5 +45,7 @@ public class DemoApplication {
 		
         log.info("Closing database connection");
         connection.close();
-        }
+        	}
+	}
 }
+	
